@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  Internationalization
+
+  Created by 张体宾 on 2017/11/15.
+  Copyright © 2017年 Dreams of Ideal World Co., Ltd. All rights reserved.
+*/
+
+// Localizable App Name是App在英语环境环境下显示的名称
+CFBundleDisplayName = "Internationalization";
+
+

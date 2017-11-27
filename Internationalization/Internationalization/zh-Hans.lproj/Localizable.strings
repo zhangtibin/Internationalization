@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Internationalization
+
+  Created by 张体宾 on 2017/11/15.
+  Copyright © 2017年 Dreams of Ideal World Co., Ltd. All rights reserved.
+*/
+
+"home" = "首页";
+"service" = "服务";
+"account" = "账户";
+"detail" = "详情";
+"English" = "切换为英文";
+"Chinese" = "切换为中文";
+"Button" = "按钮";
